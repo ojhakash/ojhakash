@@ -20,7 +20,7 @@
 I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer working on building scalable and reliable web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring Technical Content Writing [![Hashnode Badge](https://img.shields.io/badge/akash-ojha-turquoise?style=flat&logo=Hashnode&logoColor=white)](https://techblog.akashojha.com/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/akash-ojha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akash-ojha) [![Twitter Badge](https://img.shields.io/badge/akash-ojha-green?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/akashojha777)
 
 ---
